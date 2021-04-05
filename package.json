@@ -1,5 +1,5 @@
 {
-  "name": "cloudinary-react",
+  "name": "@fjedi/cloudinary-react",
   "version": "1.7.0",
   "description": "Present Cloudinary images and videos using React components",
   "main": "./dist/cloudinary-react.js",
@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudinary/cloudinary-react.git"
+    "url": "git+https://github.com/fjedi/cloudinary-react.git"
   },
   "author": "Cloudinary",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloudinary/cloudinary-react/issues"
+    "url": "https://github.com/fjedi/cloudinary-react/issues"
   },
-  "homepage": "https://github.com/cloudinary/cloudinary-react#readme",
+  "homepage": "https://github.com/fjedi/cloudinary-react#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.0",
     "@babel/core": "^7.2.2",
